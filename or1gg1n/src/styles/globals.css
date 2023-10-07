@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{--font-inter:'__Inter_0245cf', '__Inter_Fallback_0245cf';
+  --font-manrope:'__Manrope_44e3df', '__Manrope_Fallback_44e3df'}
+
+  body {
+    background-color: black;
+  }
